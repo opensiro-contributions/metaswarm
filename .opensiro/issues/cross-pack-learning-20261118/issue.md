@@ -1,75 +1,62 @@
-# metaswarm — cross-pack learning roadmap (OpenSiro plan-only)
+# metaswarm — independent six-function roadmap re-run (OpenSiro plan-only)
 
-**PLAN_ONLY · DECISION_READY · Present decision: NO_GO · GitHub Issue NOT PUBLISHED**
+**PLAN_ONLY · proposal-stage NO_GO · research NO_USEFUL_CHANGE · DRAFT — NOT PUBLISHED**
 
-## 1. Why OpenSiro and accepted assessment
+**One-sentence proposal:** No qualified additional developer-composable VSM C decision loop has been demonstrated at the installed metaswarm project boundary; keep the existing native, human-curated learning path.
 
-OpenSiro tests whether reusable VSM-informed organizational specifications can standardize AI-agent harness development and reduce implementation, integration and maintenance cost. This roadmap organizes native mechanisms and possible changes; savings remain an unmeasured hypothesis, and adoption of VSM is optional.
+**Target transition:** NO_QUALIFIED_C_TARGET
+**Proposal-stage decision:** NO_GO
+**Research disposition:** NO_USEFUL_CHANGE
 
-**Accepted starting vector: S1=A · S2=A · S3=A · S3*=A · S4=P · S5=—.**
+**Canonical receipt:** [roadmap.md](roadmap.md) — source of truth for pins, decision and evidence.
+**AI/developer evidence:** [constructor-sufficiency.md](constructor-sufficiency.md).
+**Working fork:** `opensiro-contributions/metaswarm`, case `.opensiro/issues/cross-pack-learning-20261118/` on `opensiro/meta`.
 
-[Canonical accepted assessment](https://github.com/opensiro/vsm-harness-index/blob/34e11ec4dd52e1ba3ee0111d8bca73f13918f54f/assessments/me/metaswarm.md) at Index `34e11ec4dd52e1ba3ee0111d8bca73f13918f54f`; assessment blob `0f94c988125b87fff928898f8d849bfc21875cf7`; review ref `4bbb10abd301b9ec9d63371e296049cbc6043baa`; reviewed 2026-11-18; Profile 0.2.4 / Methodology 0.3.8. Original main currently matches the assessed revision.
+## 1. Why OpenSiro and central accepted VSM assessment
 
-| Function | Accepted | Roadmap consequence |
+OpenSiro investigates whether VSM-informed organizational construction reduces harness engineering cost. This is a hypothesis, not proven savings, a quality rating or a request that metaswarm adopt VSM.
+
+**Accepted historical Index:** `S1=A · S2=A · S3=A · S3*=A · S4=P · S5=—`. [Accepted assessment](https://github.com/opensiro/vsm-harness-index/blob/b6318e9fb855c20a0a48dfd0ea03f78aaafbb320/assessments/me/metaswarm.md) at Index `b6318e9fb855c20a0a48dfd0ea03f78aaafbb320`, assessment blob `0f94c988125b87fff928898f8d849bfc21875cf7`, reviewed 2026-11-18, Profile 0.2.4, Methodology 0.3.8; historical `review_ref=4bbb10abd301b9ec9d63371e296049cbc6043baa`. Current original `main@4bbb10abd301b9ec9d63371e296049cbc6043baa`, observed 2026-11-19, matches the frozen assessment. The Index is not regraded.
+
+**Boundary:** installed metaswarm plugin/skill orchestration of a project with project-local BEADS knowledge and host-provided model/tools. Separate original maintainer governance, host platform, and third-party skill publishers are outside this operational cell. Source-first scan covered CLI/installation, packaged roles and skills, modes, orchestrator/quality gates, state/knowledge, relevant tests, policy and current issue/PR overlap.
+
+| Function / plain-language role | Historical state | Native decision/return path at current source | Construction disposition |
+| --- | --- | --- | --- |
+| **S1 · Operations** | A | [Coder and work-unit execution](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/skills/orchestrated-execution/SKILL.md) iterates actual code and tests | NO_TARGET: current task owner already exists; no distinct C use case |
+| **S2 · Coordination** | A | [Swarm coordinator](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/swarm-coordinator-agent.md) resolves worktree and dependency contention | NO_TARGET: native conflict/assignment decisions already routed |
+| **S3 · Current control** | A | Coordinator assigns, pauses, rebalances and escalates active commitments | NO_TARGET: current intervention/feedback is already supported; no separate need |
+| **S3* · Complementary audit** | A | [Fresh adversarial reviewers](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/adversarial-reviewer.md) return failures for correction | NO_TARGET: reviewer/validation loop already exists; no second independent owner demonstrated |
+| **S4 · Future adaptation** | P | [Self-reflect](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md) extracts candidate lessons; human selects/settles conflicts; [prime](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md) and [session hook](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/hooks/session-start.sh) feed later work | Investigated first; S4=C adoption authority and incremental user outcome remain unqualified |
+| **S5 · Identity and policy** | — | User, host authority and maintainers retain ultimate requirement/policy choices, including [Clarify stops](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/guides/delivery-scope.md) | NO_TARGET: no legitimate S5 delegation or identity-policy requirement demonstrated |
+
+The vector reports ownership, not a score or a mandatory A→C upgrade. Interest of OpenSiro contributor or original maintainers in this *exact C constructor*: NOT_STATED. The broader [original inquiry #52](https://github.com/dsifry/metaswarm/issues/52) is not adoption permission.
+
+## 2. Selected hypothesis and operator outcome
+
+**Target transition: NO_QUALIFIED_C_TARGET.** S4=P→C was the strongest hypothesis in the *independent* screen: an optional developer-composed actor could evaluate prospective reusable practices, choose adopt/hold/reject within a lawful project scope, alter subsequent planning, and evaluate later effects. But #52 names neither a pinned external skill pack nor a recipient task with a baseline failure. No source-backed operator need establishes benefit over one human selecting a reusable fact in the shipped workflow.
+
+**P0:** NO_QUALIFIED_C_TARGET — no implementation admission. **P1:** NONE admitted; a pinned candidate practice, license, adopter, measurable downstream task and explicit authority are *new research evidence requirements*, not pre-approved engineering tasks. **P2:** NONE.
+
+## 3. Track A ↔ Track B: native overlap and incremental value
+
+| Track A: current original-native work | Track B: independently considered on-top path | User benefit and falsifier |
 | --- | --- | --- |
-| S1 Operations | A | Coding agents already own task actions; no required constructor project. |
-| S2 Coordination | A | Coordinators already regulate conflicting work scopes and dependencies. |
-| S3 Current control | A | Swarm coordinator assigns and rebalances current work. |
-| S3* Complementary audit | A | Fresh independent reviewers return findings into correction. |
-| S4 Future adaptation | P | Human-selected lessons enter later work through project knowledge and /prime. Agent-owned cross-pack adoption is a separate unqualified hypothesis. |
-| S5 Identity/policy | — | No source-backed identity-governance demand established; no target proposed. |
+| SHIPPED: [self-reflect](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md), [prime](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md), [knowledge/session hook](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/hooks/session-start.sh) | Reuse without modification; manually curate practice-specific lessons | Cheapest baseline. No source-backed advantage for added controller; falsified by equivalent later result with existing path |
+| ISSUE_ONLY: [#52 cross-pack learning](https://github.com/dsifry/metaswarm/issues/52) | Source-pinned practice importer + scoped autonomous selection + observable return | HYPOTHETICAL; no selected pack, consumer, supported choice or measured task result |
+| OPEN_UNMERGED: [#37 shared-memory](https://github.com/dsifry/metaswarm/pull/37), [#36 persistence](https://github.com/dsifry/metaswarm/pull/36) | Integrate storage/handoff with native reflection | Memory transport is not autonomous adoption choice; neither is shipped at pinned HEAD |
+| SHIPPED: [#103/#104 Clarify](https://github.com/dsifry/metaswarm/pull/104); OPEN ISSUE: [#115 recovery gate](https://github.com/dsifry/metaswarm/issues/115) | Extend native recovery instructions/tests, not add a C controller | Concrete standalone fix exists, but its success doesn't establish S4=C |
+| OPEN_PR: [#116 coder tiers](https://github.com/dsifry/metaswarm/pull/116) | Use planned coder-selection path rather than duplicate it | Not shipped; scoped S1/S3 enhancement already owned by original PR |
 
-These are ownership arrangements, not quality scores or a mandatory maturity ladder. Boundary: one installed metaswarm project cell in a supported host, excluding external host intelligence and the maintainer organization.
+**Distinguishing outcome:** an independently composed, delegated S4 actor would need to choose between legally usable prospective adaptations and change a later *real* project task, return attributable success/failure, preserve human vetoes and outperform the native manual baseline. No complete minimum such contribution is grounded today. A generic agent name, ingest API, prompt or memory store is insufficient.
 
-## 2. User task and present decision
+## 4. Decision, validation, alternative routes
 
-Original [issue #52](https://github.com/dsifry/metaswarm/issues/52), OPEN with no comments at readback, asks whether metaswarm can learn from other skill packs, including merging them. It supplies a genuine research question, but no selected source pack/revision, recipient project, concrete failing task, adopted artifact or comparison criterion.
+**Proposed C-sufficiency:** NO_QUALIFIED_C_TARGET. **Proposal-stage decision:** NO_GO. **Research disposition:** NO_USEFUL_CHANGE. This is scoped to *additional autonomous C construction*, not to metaswarm or native bug fixes.
 
-**NO_GO now:** do not implement or publish a speculative autonomous pack-merging/S4=C feature. This is a complete present decision, not a request to first implement memory PRs and see what happens.
+**Future positive/falsifying case:** specify one immutable external practice, legitimate source rights, target project, comparable failing operation and an explicit mandate for adopt/hold/reject; verify both accepted and rejected decisions affect future work appropriately, with independent native tests and after-run receipts. If stock reflection and human promotion achieve the same outcome with less engineering/maintenance effort, reject the extra constructor. If the delegated decision actor cannot be composed or closed into future operations, also reject it.
 
-For reusable project lessons, the simplest shipped path is [self-reflect](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md): evaluate candidates, retain human selection and resolve contradictions, write project-local knowledge, then [prime](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md) before subsequent work. This does **not** establish that whole skill-pack merging already works.
+**Validation state:** NOT_RUN for native plugin, host model, and product change; this was source/issue/PR inspection, not a new observed live harness run. Costs and savings: NOT_MEASURED.
 
-[Full AI/developer evidence and stop contract](https://github.com/opensiro-contributions/metaswarm/blob/opensiro/meta/.opensiro/issues/cross-pack-learning-20261118/constructor-sufficiency.md).
+**Historical comparison only after independent verdict:** prior [2026-11-18 case](https://github.com/opensiro-contributions/metaswarm/blob/6c488f55d1513bff31f2a4fd89a5cb668ad1e3e2/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) rejected speculative *cross-pack merging* S4=C. The fresh 2026-11-19 pass independently found NO_QUALIFIED_C_TARGET across all six functions; it confirms the narrow result with additional native #115/#116 and session-hook checks, but does NOT inherit the earlier reasoning. `NO_GO → NO_GO`, new independent evidence and unchanged original HEAD.
 
-## 3. Existing work and residual gap
-
-| Native path or proposal | Verified behavior | Consequence |
-| --- | --- | --- |
-| self-reflect + knowledge + prime on main | Candidate evaluation, human selection, deduplication, scoped facts and later-context loading | Existing baseline for lessons; preserve parent ownership. |
-| [PR #37](https://github.com/dsifry/metaswarm/pull/37), OPEN, head 9ae9f57b3f2426b92c50c87870ec93b44f103da7 | Proposed SQLite memory, retrieval, handoffs and leases; code diff inspected | Storage/transport does not itself supply an external-pack adaptation decision. Not shipped and not a prerequisite mandated here. |
-| [PR #36](https://github.com/dsifry/metaswarm/pull/36), OPEN, head 5f62366019c22fad20c68351f005aa257b9b8749 | Proposed session recovery files/hooks | Retaining context is distinct from choosing future adaptations. |
-| [Issue #56](https://github.com/dsifry/metaswarm/issues/56), OPEN | Specific native per-role host model configuration proposal | Separate product task; neither a solution nor a dependency for #52. |
-
-Residual question: can a bounded, legally usable external practice improve a named future project task beyond existing human-curated lessons? The examined evidence does not establish a minimum useful autonomous constructor.
-
-## 4. Priority and minimum result
-
-- **P0 candidate, rejected for implementation now:** developer-composed selection of an external practice for future work. No qualified minimum integration yet.
-- **P1:** none admitted. A pinned source pack, destination, concrete task, legitimate adoption right and baseline comparison are conditions for a new evaluation, not an implementation backlog.
-- **P2:** NONE. No compulsory S5 or replacement of S1–S3*.
-
-The minimum sufficient result of this invocation is the source-backed NO_GO and reusable evidence package. A catalog, import hook or generic agent role alone would not justify C.
-
-## 5. Acceptance and stop
-
-Only reopen engineering qualification after a real source-native case identifies the imported practice, lawful options, who may accept/reject it and observable effect on a later task. Compare against the existing human-curated baseline. Preserve rejection, conflicting-lesson and unchanged-project controls; never infer learning from a successful memory write.
-
-One keyless baseline command extracted two existing project gotchas through the exact keyword filter documented by prime. This checks retrieval only. No model-backed learning, benefit, independent audit or new feature test ran.
-
-## 6. Independent routes
-
-Continue using the native lesson workflow where it fits. Product-native contribution to #52, Profile/Skills feedback or a separate domain fork would each need their own substantive justification and rights. No specification defect or domain-fork need is established here.
-
-## 7. Cost
-
-**NOT_MEASURED.** A future matched comparison must include human selection/review, import preparation, validation, downstream quality and maintenance effort, including failed attempts. No savings claimed.
-
-## 8. Handoff and publication
-
-[Receipt](https://github.com/opensiro-contributions/metaswarm/blob/opensiro/meta/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) · [AI companion](https://github.com/opensiro-contributions/metaswarm/blob/opensiro/meta/.opensiro/issues/cross-pack-learning-20261118/constructor-sufficiency.md).
-
-Working fork: https://github.com/opensiro-contributions/metaswarm, verified fork of dsifry/metaswarm. Initial metadata uses PAUSE/DORMANT; the bootstrap does not authorize subsequent changes or implementation. No contribution record or product change is created.
-
-This file is the complete proposed fork Issue body. Exact proposed title: **metaswarm — cross-pack learning roadmap (OpenSiro plan-only)**. Public destination would be https://github.com/opensiro-contributions/metaswarm/issues. Publication is not recommended under this NO_GO; no original issue/comment/PR is proposed. Any later public fork Issue or third-party message requires separate exact current-conversation approval.
-
-Prepared with AI assistance from public sources. Source inspection and deterministic retrieval are not a live organizational run.
+**Rights and publication:** original MIT [license](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/LICENSE) and [CONTRIBUTING](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/CONTRIBUTING.md); no separate CLA/DCO/AI ban found in inspected root, not universal rights clearance for imported third-party packs. Verified fork parent `dsifry/metaswarm`, owner `ACTIVE/ALLOW` on `opensiro/meta`; no product/default changes, no contribution record and no public fork Issue, original Issue/PR/comment or release. This case is an **unpublished draft**. A public fork Issue or original-maintainer interaction requires distinct exact approval. AI-assisted research; no simulated tests or savings claimed.
