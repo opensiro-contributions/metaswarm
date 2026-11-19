@@ -1,15 +1,13 @@
-# metaswarm — cross-pack learning research
+# metaswarm — independent six-function roadmap re-run (2026-11-19)
 
-**Present decision: NO_GO.** Do not implement speculative automatic skill-pack merging or publish the feature proposal now.
+**Current verdict: scoped NO_GO / NO_QUALIFIED_C_TARGET / NO_USEFUL_CHANGE / PLAN_ONLY / NOT_PUBLISHED.**
 
-- [Human roadmap / complete unpublished fork Issue body](issue.md)
-- [AI/developer evidence and constructor stop contract](constructor-sufficiency.md)
-- [Pinned source, rights, overlap, execution and delivery receipt](roadmap.md)
+- [Human-facing full unpublished fork Issue body](issue.md)
+- [AI/developer constructor sufficiency and counterfactual](constructor-sufficiency.md)
+- [Canonical proposal-gate receipt and evidence pins](roadmap.md)
 
-Original: https://github.com/dsifry/metaswarm at 4bbb10abd301b9ec9d63371e296049cbc6043baa.
-Accepted Index: https://github.com/opensiro/vsm-harness-index/blob/34e11ec4dd52e1ba3ee0111d8bca73f13918f54f/assessments/me/metaswarm.md.
-Vector: S1=A, S2=A, S3=A, S3*=A, S4=P, S5=—.
+Original `dsifry/metaswarm@4bbb10abd301b9ec9d63371e296049cbc6043baa`; accepted [Index assessment](https://github.com/opensiro/vsm-harness-index/blob/b6318e9fb855c20a0a48dfd0ea03f78aaafbb320/assessments/me/metaswarm.md), included, vector S1=A / S2=A / S3=A / S3*=A / S4=P / S5=—.
 
-Source #52 leaves the target practice, project and measurable downstream result unspecified. Native self-reflect plus human adoption and prime is the lesson baseline; whole-pack merging is not certified. #36/#37 memory work is not a mandated prerequisite.
+The fresh review considered shipped native gates, review, coordination, knowledge/prime, open #52/#115, open PR #36/#37/#116 and the simplest on-top alternative. S4=C automatic external-practice adoption remains unqualified, not impossible. Native test state: NOT_RUN. Cost: NOT_MEASURED.
 
-Initial bootstrap on opensiro/meta; PAUSE/DORMANT. No product changes or contribution record. Public GitHub Issue NOT PUBLISHED. This case is a terminal plan-only research handoff, not permission to implement or post.
+**Historical comparison:** [2026-11-18 earlier NO_GO receipt](https://github.com/opensiro-contributions/metaswarm/blob/6c488f55d1513bff31f2a4fd89a5cb668ad1e3e2/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) is preserved by immutable Git history, not silently treated as the new independent verdict. Owner state ACTIVE/ALLOW verified for internal metadata only; no public Issue/PR, product changes or external communication.
