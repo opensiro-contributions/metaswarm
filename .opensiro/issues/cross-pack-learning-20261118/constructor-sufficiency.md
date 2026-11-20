@@ -1,47 +1,43 @@
-# AI/developer contract — metaswarm independent re-run
+# AI/developer constructor sufficiency — metaswarm Wave 4 cross-pack adaptation
 
-**Target transition:** NO_QUALIFIED_C_TARGET
-**Proposal-stage decision:** NO_GO
-**Research disposition:** NO_USEFUL_CHANGE
+**Target transition:** S4=P -> S4=C
+**Proposal-stage decision:** GO
+**Research disposition:** NEEDS_EVIDENCE
 
-[issue.md](issue.md) is the human-facing six-function census and complete unpublished Issue text. [roadmap.md](roadmap.md) is the canonical receipt. Historical provenance stays accessible at [old HEAD](https://github.com/opensiro-contributions/metaswarm/blob/6c488f55d1513bff31f2a4fd89a5cb668ad1e3e2/.opensiro/issues/cross-pack-learning-20261118/constructor-sufficiency.md).
+[issue.md](issue.md) is the Human-facing six-function table and unpublished issue draft. [roadmap.md](roadmap.md) owns the current canonical decision and pins. Original 4bbb10abd301b9ec9d63371e296049cbc6043baa and accepted Index 308548ec89534590f948bc75dd61887e992a3756 / blob 0f94c988125b87fff928898f8d849bfc21875cf7; v0.18.0 @ 28ea2cce06b517bc4550dceddb00210b1e0dc85c. These are not new Index grades.
 
-## Independent scope, exact source and authority
+## Boundary and decision-right mapping
 
-Original `dsifry/metaswarm@4bbb10abd301b9ec9d63371e296049cbc6043baa`; included [Index assessment](https://github.com/opensiro/vsm-harness-index/blob/b6318e9fb855c20a0a48dfd0ea03f78aaafbb320/assessments/me/metaswarm.md) `b6318e9fb855c20a0a48dfd0ea03f78aaafbb320`, blob `0f94c988125b87fff928898f8d849bfc21875cf7`; Profile 0.2.4/Methodology 0.3.8. One installed project-level orchestration cell, not original maintainer's company, whole coding host, or external vendors. Parent/user retains strategic authorization and choice of promoted lessons. Source-only inspection of packaged CLI/skills/agents, [review-rule guide](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/guides/delivery-scope.md), [memory and hook](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/hooks/session-start.sh), tests and contributor terms. This does not reclassify Index.
+Function S4: sense external changes/experience beyond this project, independently choose a forward-looking adaptation, affect subsequent local operations, and receive feedback to retain/revise. Proposed first-party owner is an installed metaswarm cross-pack adaptation curator with model judgment governed by **authored first-party instructions**, not an assumed intelligence feature of host Claude/Gemini/Codex. Opt-in policy is set by project human and only authorizes local reversible candidate knowledge edits. Parent retains broader S5 authorization/merges and publisher rights.
 
-## Native mechanism, weakest missing link
+Minimum source-native path: https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/issue-orchestrator.md phase-9 curation entry, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/knowledge-curator-agent.md source/fact curation, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md source filtering, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md knowledge-to-task consumption, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/knowledge/README.md JSONL provenance/usage fields. Local source allowlist and per-project opt-in are NEW proposed bounded contracts, not claimed shipped.
 
-- **S1/S2/S3:** [orchestrated-execution](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/skills/orchestrated-execution/SKILL.md) and [swarm coordinator](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/swarm-coordinator-agent.md) own execution, interference and current task allocation; no distinct missing developer-composable C owner or user task shown.
-- **S3*:** [adversarial-reviewer](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/adversarial-reviewer.md) runs a fresh auditor and sends failures to orchestrator; no new independent access/decision requirement substantiated.
-- **S4=P:** [self-reflect](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md) extracts lessons, demands user selection and conflict handling; [prime](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md) and [session-start](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/hooks/session-start.sh) make selected project knowledge available to later workers. Knowledge ingestion is not an autonomous external practice adoption decision.
-- **S5:** unconfirmed future requirements and review escalations go to the legitimate human via [delivery-scope](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/guides/delivery-scope.md); automatic S5 delegation is out of scope.
+### Minimal P0: four linked, owned functions
 
-## Independent Track A versus Track B
+1. **Sense** — read only licensed allowlisted external pack/review/release documentation and observed later task results with immutable source URL, version and project context. Treat external instructions as data, never execute or auto-install them.
+2. **Decide** — prospective curator independently chooses ADOPT_TRIAL / HOLD / REJECT / RETIRE based on scoped task applicability, conflicts, allowed operation, confidence and deprecation. Human need not approve every low-risk candidate; unknown authority -> HOLD with zero mutations.
+3. **Effect** — write an append-only/reversible trial entry to project-local .beads/knowledge facts, versioned with origin, target path, expiry, decision and fact ID. /prime reads only authorized scoped trials and affects a future task plan; high-risk code/skills, external PRs, protected policy and source scope remain human-owned.
+4. **Return** — later review/corrections/PR results reference the fact ID; independent curator confirms, withdraws or retires before further prime. Write an attributable decision and feedback record; if no after-run evidence, remain trial/unknown, never assert improved quality.
 
-1. **A SHIPPED:** native lesson extraction, review filters, project JSONL, later priming; current role and loop. **B:** reuse unchanged. Outcome: handles local feedback without importing a third-party controller. Falsifier of new B: native workflow achieves task goal with equal or lower effort.
-2. **A ISSUE_ONLY:** [#52](https://github.com/dsifry/metaswarm/issues/52) raises open-ended other-pack learning/merging; no named target, rights or acceptance task. **B:** bounded hypothetical developer-composed actor, whose chosen `adopt|hold|reject` must govern a *later* project run and return performance evidence, with a safe host/user veto. Missing: supported source, delegated rights, comparator, receiver integration and feedback. **NO QUALIFIED IMPLEMENTATION**.
-3. **A OPEN, NOT SHIPPED:** [#37 SQLite/handoff](https://github.com/dsifry/metaswarm/pull/37) and [#36 persistent session memory](https://github.com/dsifry/metaswarm/pull/36). **B:** attach evidence storage; still not prospective alternative evaluation or outcome closure, so not a C sufficiency proof.
-4. **A SHIPPED:** [#103/#104 Clarify](https://github.com/dsifry/metaswarm/pull/104). **A ISSUE_ONLY:** [#115 interrupted review recovery](https://github.com/dsifry/metaswarm/issues/115); plausible existing native repair. **B:** adapt recovery templates and tests, no independent S3 or S4 actor. **A OPEN PR:** [#116](https://github.com/dsifry/metaswarm/pull/116) coder tiers and debugging; no duplicate implementation as contribution-on-top.
+This is a coherent candidate autonomous S4 decision/effect/return constructor, but remains HYPOTHETICAL and NOT_RUN. It is **not** a generic knowledge crawler, storage layer, S3 post-hoc bug fix, or S5 autonomous rulemaking.
 
-**Scenario basis: HYPOTHETICAL.** Original #52 establishes curiosity, not a reproduced adoption-vs-curation failure. No evidence that an imported-pack operation must be automated. The strongest candidate S4=P→S4=C lacks an identifiable qualifying on-top delta. `P` is a legitimate human-controlled operating mode.
+## Track A original overlap and non-equivalence
 
-## P0 / P1 / P2
+Native https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md explicitly asks a human to select candidate learnings and resolve conflicts. Native /prime is a *read/filter* path, not the cross-pack forward-looking chooser. Original [#52](https://github.com/dsifry/metaswarm/issues/52) describes a possible cross-pack learning use case. Open [#37](https://github.com/dsifry/metaswarm/pull/37) offers shared cross-project memory and handoffs; even if merged, storage alone lacks the independent adoption/retirement decision and downstream evidence loop. Open [#36](https://github.com/dsifry/metaswarm/pull/36) preserves session state; open [#116](https://github.com/dsifry/metaswarm/pull/116) coder-tier policy. None counted as shipped S4 C closure at original HEAD; merged [#104](https://github.com/dsifry/metaswarm/pull/104) is a user Clarify check. Existing manual editing may be the best **product** solution and has unknown cost; that cannot by itself establish existing C closure.
 
-- **P0:** NO_QUALIFIED_C_TARGET — do not implement new S4 controller, forced pack merge, duplicated review manager or S5 grant.
-- **P1:** NONE admitted. New data to reopen only: pinned lawful upstream pack; an actual adopter, workload and baseline; scoped function owner with reject/hold/adopt permission; run feedback and empirical evaluation plan.
-- **P2:** NONE. No required Profile/Skills change or domain fork.
+## Negative constructors
 
-## Native acceptance if a genuinely new case is later admitted
+- Search/SQLite/FTS-only knowledge sharing: no decision or returned effect; **NOT C**.
+- Auto-merge any other pack into source or run imported instructions: unsafe external rights/authority, unbounded side effects; **REJECT**.
+- Every candidate selected only by human: valid P/manual workflow but autonomous S4 decision ownership not constructed.
+- Pure LLM recommendation without KB edit and later return: **NOT C**.
 
-**Positive:** On matching project/task, a developer-composed prospective-decision owner inspects a pinned, licensed practice, independently chooses an allowed adaptation, can show an attributable later task change and post-run verification, and records net benefit/cost vs native human-curated option.
+## Native acceptance/ falsification gates
 
-**Negative:** Conflicting/stale/unlicensed practice, unresolved human decision or denied approval must leave code/KB unchanged. A `hold` or `reject` must not mutate the project. Missing actor must fall back to existing lesson workflow. After-run failure must be recorded as failure, not learning success.
+Positive fixture: licensed allowlisted source version; target task; agent chooses one permitted trial, rejects one conflicted practice and holds one unknown license; only trial enters project KB; next task /prime demonstrably consumes fact; later review triggers independently attributable keep/retire; denied source or permissions cause no mutation. Compare a human self-reflect/prime run for actual value and cost **after** the architectural test.
 
-**Falsifier:** if ordinary native reflection plus manual adoption satisfies the same task at less total cost, or an actor cannot own the decision/return within authorized project scope, `C` sufficiency fails. Speculative storage or role plumbing is not a sufficient constructor.
+Failure: no verifiable source rights, parent-owned policy decision masquerading as model autonomy, no downstream change, missing receipt/fact-ID feedback, or first-party shipped same-scope C loop. Product value failure does not retroactively make a structurally coherent C path impossible. No native tests executed in this research.
 
-**Execution:** NATIVE TESTS NOT_RUN; no external tool, model session, full original project, code patch, host approval or throughput experiment executed. Historical 2026-11-18 case made a separate deterministic prime-filter check, which is **not** a test performed by this new rerun. **Cost status: NOT_MEASURED.**
+## Comparison and safety
 
-## Provenance and publication
-
-Independent six-function and A/B verdict was reached before the historical [earlier receipt](https://github.com/opensiro-contributions/metaswarm/blob/6c488f55d1513bff31f2a4fd89a5cb668ad1e3e2/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) was opened. Historical `NO_GO` for cross-pack merging aligns with the fresh `NO_GO` for *additional C construction*. Current original head matches assessment, but the new original PR #116 is **open, not shipped**. Fork `owner_control=ALLOW` permits internal meta receipt update, not a public fork GitHub Issue or original communication. AI-assisted plan-only evidence; no outward publication.
+Independent six-function first pass completed before prior OpenSiro case was read. Old [same-case NO_GO](https://github.com/opensiro-contributions/metaswarm/blob/560d659b622edd4effaadcf84f6b513c289a1423/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) relied on no grounded incremental demand, product value and insufficient example. Under published v0.18.0 neutrality this new scoped complete construction earns **GO / NEEDS_EVIDENCE** (NOT_RUN). Historical evidence survives immutable Git, not rewritten as a 2026-11-19 GO. Parent original repo and any public fork Issue or PR not touched. AI-assisted plan-only research; tested code none, cost unmeasured.

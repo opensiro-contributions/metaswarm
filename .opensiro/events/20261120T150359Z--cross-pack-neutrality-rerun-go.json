@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "20261120T150359Z--cross-pack-neutrality-rerun-go",
+  "recorded_at": "2026-11-20T15:03:59Z",
+  "actor": "OpenSiro AI assistant (owner-directed Upstream #58 Wave 4)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE (proposal-stage S4=P -> S4=C)",
+  "evidence_urls": [
+    "https://github.com/opensiro/vsm-harness-index/blob/308548ec89534590f948bc75dd61887e992a3756/assessments/me/metaswarm.md",
+    "https://github.com/dsifry/metaswarm/commit/4bbb10abd301b9ec9d63371e296049cbc6043baa",
+    "https://github.com/dsifry/metaswarm/issues/52",
+    "https://github.com/dsifry/metaswarm/pull/37",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7042654101",
+    "https://github.com/opensiro-contributions/metaswarm/blob/560d659b622edd4effaadcf84f6b513c289a1423/.opensiro/issues/cross-pack-learning-20261118/roadmap.md"
+  ],
+  "next_action": "Validate source-licensed opt-in local knowledge trial, reversible /prime effect and later follow-up; native tests NOT_RUN, cost NOT_MEASURED, do not publish externally without exact consent.",
+  "summary": "New post-release v0.18.0 neutrality first-pass was written before reading old case, and source-native prospective S4 adopt/trial/retire closed loop was found structurally constructible. Historic same-case NO_GO remains in Git history; product adoption belongs to maintainer. No original writes."
+}
