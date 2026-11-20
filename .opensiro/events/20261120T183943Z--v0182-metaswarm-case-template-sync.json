@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "20261120T183943Z--v0182-metaswarm-case-template-sync",
+  "recorded_at": "2026-11-20T18:39:43.272Z",
+  "actor": "OpenSiro AI-assisted Upstream #58 bounded source-first follow-up",
+  "kind": "CHECKPOINT",
+  "decision": "SAME_CASE_TEMPLATE_REPAIRED; GO / NEEDS_EVIDENCE unchanged; NO ORIGINAL SOURCE HEAD CHANGE; native NOT_RUN",
+  "original_repository": "dsifry/metaswarm",
+  "original_head_observed": "4bbb10abd301b9ec9d63371e296049cbc6043baa",
+  "case_id": "cross-pack-learning-20261118",
+  "source_first_checkpoint": "https://github.com/opensiro/upstream/issues/58#issuecomment-7047329680",
+  "validation": "Both v0.18.2 structural and template validators PASS before persistence; native tests NOT_RUN",
+  "publication": "NOT_PUBLISHED",
+  "next_action": "Compare original #52 and pending cross-project memory PR #37 before any independent S4 product implementation"
+}

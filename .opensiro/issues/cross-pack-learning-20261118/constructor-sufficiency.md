@@ -1,43 +1,96 @@
-# AI/developer constructor sufficiency — metaswarm Wave 4 cross-pack adaptation
+# MetaSwarm — source-native S4 C-construction technical contract
+
+**Canonical storage:** opensiro-contributions/metaswarm@opensiro/meta:.opensiro/issues/cross-pack-learning-20261118/constructor-sufficiency.md.
+**Level 1 / Human decision Issue:** [issue.md](issue.md).
+**Canonical decision receipt:** [roadmap.md](roadmap.md), authoritative for Index vector, case pins, priority and verdict.
+**Stage:** PLAN_ONLY / HYPOTHESIS, current v0.18.2 template synchronization; **DRAFT — NOT PUBLISHED**. Native validation NOT_RUN.
+
+## 1. Function-specific construction boundary and methodology checks
+
+**Source and mode boundary:** Original dsifry/metaswarm at current original HEAD 4bbb10abd301b9ec9d63371e296049cbc6043baa, first-party entrypoints [commands/self-reflect.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md) and [commands/prime.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md). The canonical historical research HEAD remains 4bbb10abd301b9ec9d63371e296049cbc6043baa; accepted historical Index https://github.com/opensiro/vsm-harness-index/blob/308548ec89534590f948bc75dd61887e992a3756/assessments/me/metaswarm.md reviewed at 4bbb10abd301b9ec9d63371e296049cbc6043baa. The supported local first-party runtime and its explicit optional modes are the unit of analysis. Original project's own CI, third-party provider, external management and parent owner are not silently counted as agent functions.
 
 **Target transition:** S4=P -> S4=C
+
+**Six-function dependencies (S1/S2/S3/S3*/S4/S5):** Accepted S1/S2/S3/S3* already have autonomous first-party roles. S4 is P (retrospective/parent governed) and a prospective trial-return extension is a bounded hypothetical, not proof of shipped S4=C. S5 remains with project owner. Reuse historical S1=A · S2=A · S3=A · S3*=A · S4=P · S5=— without changing the Index. Supporting runtime permissions and transport are not themselves autonomous decisions.
+
+**Function witness:** An external skill pack or review signal indicates a potentially useful change to agent practices; blindly copying low-trust guidance could corrupt local runs. The legitimate independent choice and owner: an opt-in knowledge curator chooses whether a verified practice from an allowed external skill pack should be tried, held, retired or rolled back for later MetaSwarm tasks. Trial, defer, reject or retire one allowlisted external practice for a named task population, with provenance and owner bounds. The effect and feedback must be A reversible local knowledge trial reaches the next authorized prime; observed future task results return for confirm or rollback..
+
+**Counterfactual owner test:** Remove the optional developer-composed S4 decision actor but keep current source machinery: The shipped self-reflect command inspects past reviews and asks a human to select project-local lessons; prime reads retained knowledge into later work. MetaSwarm already ships S1/S2/S3/S3* role decomposition and fresh adversarial review. The specific extra choice would then be missing: Retrospective local human-selected notes do not themselves provide an autonomous prospective cross-pack adopt/hold/retire actor with attributable return; permission and pack-license boundaries are not optional.. A mere generic hook or another model call does not count.
+
+**Possible methodological negative control:** If baseline first-party code already closes the exact owner/choice/effect/return at the supported boundary, or only a human parent may choose, report native equivalence and withdraw the new C design rather than regrade.
+
+**Contributor / maintainer priorities:** NOT_STATED as approval of this exact VSM construction; third-party product direction remains the maintainer's.
+
+## 2. Source-pinned baseline and parallel native Track A / on-top Track B
+
+**Original native workflow:** The shipped self-reflect command inspects past reviews and asks a human to select project-local lessons; prime reads retained knowledge into later work. MetaSwarm already ships S1/S2/S3/S3* role decomposition and fresh adversarial review. First-party pinned source: [commands/self-reflect.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md) and [commands/prime.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md).
+
+**Closest existing solution:** Continue manual /self-reflect and /prime as default; a first-party S4 extension is optional and must beat this cheaper native path with evidence.
+
+**Relevant original Issues/PRs:** https://github.com/dsifry/metaswarm/issues/52 (OPEN meta-learning question) and historical unmerged PR #37 cross-project memory; neither is asserted to ship current autonomous S4 closure.. Labels such as OPEN or CLOSED are current at this follow-up only where checked; unverified heads are not treated as merged.
+
+| Required C link or operator outcome | Track A: shipped/current source | Track B: minimum integration | Falsifier |
+| --- | --- | --- | --- |
+| Bounded whole-function decision | The shipped self-reflect command inspects past reviews and asks a human to select project-local lessons; prime reads retained knowledge into later work. MetaSwarm already ships S1/S2/S3/S3* role decomposition and fresh adversarial review. | Trial, defer, reject or retire one allowlisted external practice for a named task population, with provenance and owner bounds. | Retrospective local human-selected notes do not themselves provide an autonomous prospective cross-pack adopt/hold/retire actor with attributable return; permission and pack-license boundaries are not optional. |
+| Lawful downstream effect | Source entrypoints at commands/self-reflect.md and commands/prime.md | A reversible local knowledge trial reaches the next authorized prime; observed future task results return for confirm or rollback. | Unlicensed, unapproved, stale or conflicting source, absent authorizer or failed downstream feedback must prevent irreversible knowledge promotion; opt-out remains native self-reflect. |
+
+**On-top distinctness:** Retrospective local human-selected notes do not themselves provide an autonomous prospective cross-pack adopt/hold/retire actor with attributable return; permission and pack-license boundaries are not optional. First prefer the exact native solution; a copied supervisor abstraction is insufficient.
+
+**Source ambiguity / rights blockers:** Future source HEAD/PR changes, reviewer identity, permission of the original owner, and tests are unverified. A matched fork research write does not authorize external original actions or code changes. No evidence-free demand assumption.
+
+## 3. Minimal complete S4 first-party C construction
+
+**Required property:** A first-party S4-specific path to install a legitimate autonomous decision owner, enforce its selected lawful alternative, and return later operational evidence.
+
+| Necessary native component or port | Existing first-party source | Smallest proposed change / integration | Legitimate owner, effect, return |
+| --- | --- | --- | --- |
+| Decision evidence and invocation | [commands/self-reflect.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md) | Reuse knowledge-curator, local BEADS knowledge and prime. Construct a source-attributed reversible external-pattern trial decision with bounded rights and next-task priming plus later measured feedback/rollback. | an opt-in knowledge curator chooses whether a verified practice from an allowed external skill pack should be tried, held, retired or rolled back for later MetaSwarm tasks |
+| Bound decision and later feedback | [commands/prime.md](https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md) | A reversible local knowledge trial reaches the next authorized prime; observed future task results return for confirm or rollback. | Trial, defer, reject or retire one allowlisted external practice for a named task population, with provenance and owner bounds. |
+
+**Architectural C-sufficiency argument:** Native baseline: The shipped self-reflect command inspects past reviews and asks a human to select project-local lessons; prime reads retained knowledge into later work. MetaSwarm already ships S1/S2/S3/S3* role decomposition and fresh adversarial review. The key residual is Retrospective local human-selected notes do not themselves provide an autonomous prospective cross-pack adopt/hold/retire actor with attributable return; permission and pack-license boundaries are not optional. The strongest scoped optional solution is Reuse knowledge-curator, local BEADS knowledge and prime. Construct a source-attributed reversible external-pattern trial decision with bounded rights and next-task priming plus later measured feedback/rollback. Alternative one: use native/manual Continue manual /self-reflect and /prime as default; a first-party S4 extension is optional and must beat this cheaper native path with evidence. Alternative two: avoid building if protected authority or actual feedback cannot be established. This proposal claims constructibility, not new implemented grade.
+
+**Explicit non-goals:** No unrelated function upgrades, blanket task guardian, unrequested S5 authority, generic provider dependency, automatic external PR, or forced adoption.
+
+**Implementation dependency graph:** Verify pinned current source and accepted assessment -> resolve P1 native rights/overlap/feedback proof -> implement minimal P0 only with separately authorized product work -> run native positive/negative closure tests -> reconsider adoption based on measured benefit.
+
+## 4. Priorities, optional alternative and stopping rules
+
+**P0 and P1:** P0 is P0 opt-in first-party cross-pack-adaptation S4 agent, invoked by packaged knowledge curator at allowed completion/pre-task points; read allowlisted external project/pack PR and practice signals; autonomously select trial/hold/reject/retire for a task-specific rule; append a source-attributed reversible local BEADS knowledge trial; prime it into the next authorized task; independently revisit next-run evidence and confirm or roll back the rule. Explicit parent source/authority limits, no third-party writes. P1 is Verify supported-host invocation, source-pack license and user opt-in, low-trust provenance sanitation, fact-ID schema, reversible trial storage, traceable downstream prime and post-task feedback and cross-project data isolation, plus original #37 recheck.. Priorities are inherited, not newly changed.
+
+**P2:** NONE; no external contact or product implementation authorized.. No forced second VSM function.
+
+**Alternative path:** Continue manual /self-reflect and /prime as default; a first-party S4 extension is optional and must beat this cheaper native path with evidence.. Prefer this if it closes the same operator outcome with no independent C need.
+
+**Stop:** Complete native equivalence, impossible independent actor right, no enforced return, policy veto or missing indispensable evidence triggers NO_GO/BLOCKED under the parent protocol. A missing measured saving is not by itself NO_GO.
+
+## 5. Future source-native acceptance — derive tests, do not copy a matrix
+
+**Native test commands and entry points:** Current source provides commands/self-reflect.md, commands/prime.md and tests/lib knowledge/evaluation entrypoints. Proposed native test fixture NOT_RUN; HEAD equals historical Index reviewed ref.
+
+**Positive functional closure:** Choose between one traceable permitted external rule and a rejected/conflicting one, verify only the trial reaches a subsequent authorized prime, then revisit and retire when follow-up evidence fails.
+
+**Independent alternative (where applicable):** Trial, defer, reject or retire one allowlisted external practice for a named task population, with provenance and owner bounds. A genuine owner should be able to make two lawful different choices under different bounded contexts, not simply follow an always-grant rule.
+
+**Negative authority and compatibility (where applicable):** Unlicensed, unapproved, stale or conflicting source, absent authorizer or failed downstream feedback must prevent irreversible knowledge promotion; opt-out remains native self-reflect.
+
+**Matched native alternative:** Continue manual /self-reflect and /prime as default; a first-party S4 extension is optional and must beat this cheaper native path with evidence. Execute the same task once with current native behavior and once with conditional construction. No results or economics have yet been collected.
+
+## 6. Proposal verdict, falsification, evidence ownership and handoff
+
 **Proposal-stage decision:** GO
+
 **Research disposition:** NEEDS_EVIDENCE
 
-[issue.md](issue.md) is the Human-facing six-function table and unpublished issue draft. [roadmap.md](roadmap.md) owns the current canonical decision and pins. Original 4bbb10abd301b9ec9d63371e296049cbc6043baa and accepted Index 308548ec89534590f948bc75dd61887e992a3756 / blob 0f94c988125b87fff928898f8d849bfc21875cf7; v0.18.0 @ 28ea2cce06b517bc4550dceddb00210b1e0dc85c. These are not new Index grades.
+**Primary falsifier:** A shipped first-party actor already independently owns the identical cross-pack prospective decision, authorized local effect and attributable downstream feedback; or no lawful source/recipient boundary or executable prime/feedback connection can be constructed. Equivalent manual product value alone is not C equivalence.
 
-## Boundary and decision-right mapping
+**Validation state:** NOT_RUN; proposal only, no native tests.
 
-Function S4: sense external changes/experience beyond this project, independently choose a forward-looking adaptation, affect subsequent local operations, and receive feedback to retain/revise. Proposed first-party owner is an installed metaswarm cross-pack adaptation curator with model judgment governed by **authored first-party instructions**, not an assumed intelligence feature of host Claude/Gemini/Codex. Opt-in policy is set by project human and only authorizes local reversible candidate knowledge edits. Parent retains broader S5 authorization/merges and publisher rights.
+**Ownership of truth:** Profile owns semantics; Skills owns assessment method; Index owns historical accepted classification; original dsifry/metaswarm owns product change and maintainer choice; the [roadmap.md](roadmap.md) case receipt owns these decisions.
 
-Minimum source-native path: https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/issue-orchestrator.md phase-9 curation entry, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/agents/knowledge-curator-agent.md source/fact curation, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md source filtering, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/prime.md knowledge-to-task consumption, https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/knowledge/README.md JSONL provenance/usage fields. Local source allowlist and per-project opt-in are NEW proposed bounded contracts, not claimed shipped.
+**Cost status:** NOT_MEASURED.
 
-### Minimal P0: four linked, owned functions
+**Next permitted action:** Source-verify the narrow A/B comparison at current original HEAD and test scope under new explicit permission, or keep this as an unpublished research case.
 
-1. **Sense** — read only licensed allowlisted external pack/review/release documentation and observed later task results with immutable source URL, version and project context. Treat external instructions as data, never execute or auto-install them.
-2. **Decide** — prospective curator independently chooses ADOPT_TRIAL / HOLD / REJECT / RETIRE based on scoped task applicability, conflicts, allowed operation, confidence and deprecation. Human need not approve every low-risk candidate; unknown authority -> HOLD with zero mutations.
-3. **Effect** — write an append-only/reversible trial entry to project-local .beads/knowledge facts, versioned with origin, target path, expiry, decision and fact ID. /prime reads only authorized scoped trials and affects a future task plan; high-risk code/skills, external PRs, protected policy and source scope remain human-owned.
-4. **Return** — later review/corrections/PR results reference the fact ID; independent curator confirms, withdraws or retires before further prime. Write an attributable decision and feedback record; if no after-run evidence, remain trial/unknown, never assert improved quality.
+**Human backlink:** [issue.md](issue.md); **case receipt:** [roadmap.md](roadmap.md).
 
-This is a coherent candidate autonomous S4 decision/effect/return constructor, but remains HYPOTHETICAL and NOT_RUN. It is **not** a generic knowledge crawler, storage layer, S3 post-hoc bug fix, or S5 autonomous rulemaking.
-
-## Track A original overlap and non-equivalence
-
-Native https://github.com/dsifry/metaswarm/blob/4bbb10abd301b9ec9d63371e296049cbc6043baa/commands/self-reflect.md explicitly asks a human to select candidate learnings and resolve conflicts. Native /prime is a *read/filter* path, not the cross-pack forward-looking chooser. Original [#52](https://github.com/dsifry/metaswarm/issues/52) describes a possible cross-pack learning use case. Open [#37](https://github.com/dsifry/metaswarm/pull/37) offers shared cross-project memory and handoffs; even if merged, storage alone lacks the independent adoption/retirement decision and downstream evidence loop. Open [#36](https://github.com/dsifry/metaswarm/pull/36) preserves session state; open [#116](https://github.com/dsifry/metaswarm/pull/116) coder-tier policy. None counted as shipped S4 C closure at original HEAD; merged [#104](https://github.com/dsifry/metaswarm/pull/104) is a user Clarify check. Existing manual editing may be the best **product** solution and has unknown cost; that cannot by itself establish existing C closure.
-
-## Negative constructors
-
-- Search/SQLite/FTS-only knowledge sharing: no decision or returned effect; **NOT C**.
-- Auto-merge any other pack into source or run imported instructions: unsafe external rights/authority, unbounded side effects; **REJECT**.
-- Every candidate selected only by human: valid P/manual workflow but autonomous S4 decision ownership not constructed.
-- Pure LLM recommendation without KB edit and later return: **NOT C**.
-
-## Native acceptance/ falsification gates
-
-Positive fixture: licensed allowlisted source version; target task; agent chooses one permitted trial, rejects one conflicted practice and holds one unknown license; only trial enters project KB; next task /prime demonstrably consumes fact; later review triggers independently attributable keep/retire; denied source or permissions cause no mutation. Compare a human self-reflect/prime run for actual value and cost **after** the architectural test.
-
-Failure: no verifiable source rights, parent-owned policy decision masquerading as model autonomy, no downstream change, missing receipt/fact-ID feedback, or first-party shipped same-scope C loop. Product value failure does not retroactively make a structurally coherent C path impossible. No native tests executed in this research.
-
-## Comparison and safety
-
-Independent six-function first pass completed before prior OpenSiro case was read. Old [same-case NO_GO](https://github.com/opensiro-contributions/metaswarm/blob/560d659b622edd4effaadcf84f6b513c289a1423/.opensiro/issues/cross-pack-learning-20261118/roadmap.md) relied on no grounded incremental demand, product value and insufficient example. Under published v0.18.0 neutrality this new scoped complete construction earns **GO / NEEDS_EVIDENCE** (NOT_RUN). Historical evidence survives immutable Git, not rewritten as a 2026-11-19 GO. Parent original repo and any public fork Issue or PR not touched. AI-assisted plan-only research; tested code none, cost unmeasured.
+**AI disclosure:** Drafted with AI; no native execution, maintainer consent, economic proof or independently verified value claimed.
